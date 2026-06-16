@@ -1,0 +1,14 @@
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+c:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll

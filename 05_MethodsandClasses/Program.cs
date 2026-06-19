@@ -1,4 +1,6 @@
-﻿```csharp
+﻿using System;
+
+class Program
 /*
 ============================================================
 Chapter 5 : Methods in C#
@@ -32,10 +34,6 @@ public static int Add(int a, int b)
 
 ============================================================
 */
-
-using System;
-
-class Program
 {
     static void Main(string[] args)
     {
@@ -96,10 +94,6 @@ class Program
         Console.WriteLine($"Factorial of 5 = {Factorial(5)}");
     }
 
-    // =====================================================
-    // METHOD WITHOUT PARAMETERS
-    // =====================================================
-
     /*
     Definition:
     A method that takes no input.
@@ -110,7 +104,6 @@ class Program
     C#:
     void Hello(){}
     */
-
     static void SayHello()
     {
         Console.WriteLine("Hello World!");
@@ -128,10 +121,8 @@ class Program
     The actual value passed to the method.
 
     Parameter -> name
-
     Argument -> "Aravinda"
     */
-
     static void Greet(string name)
     {
         Console.WriteLine($"Hello {name}");
@@ -140,7 +131,6 @@ class Program
     // =====================================================
     // MULTIPLE PARAMETERS
     // =====================================================
-
     static void Add(int a, int b)
     {
         Console.WriteLine($"{a} + {b} = {a + b}");
@@ -155,7 +145,6 @@ class Program
     A return statement sends a value back
     to the caller.
     */
-
     static int Square(int number)
     {
         return number * number;
@@ -164,7 +153,6 @@ class Program
     // =====================================================
     // RETURN STRING
     // =====================================================
-
     static string GetCountry()
     {
         return "India";
@@ -178,7 +166,6 @@ class Program
     If no value is supplied,
     the default value is used.
     */
-
     static void Welcome(string name = "Sir")
     {
         Console.WriteLine($"Welcome {name}");
@@ -187,7 +174,6 @@ class Program
     // =====================================================
     // NAMED ARGUMENTS
     // =====================================================
-
     static void Student(string name, int age)
     {
         Console.WriteLine($"{name} is {age} years old.");
@@ -196,7 +182,6 @@ class Program
     // =====================================================
     // OPTIONAL PARAMETERS
     // =====================================================
-
     static void Employee(string company, int experience = 0)
     {
         Console.WriteLine($"{company} Experience : {experience}");
@@ -211,7 +196,6 @@ class Program
     Multiple methods with the same name
     but different parameter lists.
     */
-
     static void Print()
     {
         Console.WriteLine("No Parameter");
@@ -238,7 +222,6 @@ class Program
     Copy of the variable is passed.
     Original remains unchanged.
     */
-
     static void PassByValue(int x)
     {
         x = 100;
@@ -251,7 +234,6 @@ class Program
     /*
     Original variable is modified.
     */
-
     static void PassByReference(ref int x)
     {
         x = 100;
@@ -264,7 +246,6 @@ class Program
     /*
     Used to return multiple values.
     */
-
     static void Divide(int a, int b, out int result)
     {
         result = a / b;
@@ -273,13 +254,11 @@ class Program
     // =====================================================
     // EXPRESSION BODIED METHOD
     // =====================================================
-
     static int Cube(int x) => x * x * x;
 
     // =====================================================
     // LOCAL METHOD
     // =====================================================
-
     static void LocalMethodDemo()
     {
         void PrintMessage()
@@ -304,7 +283,6 @@ class Program
     Backtracking
     Divide & Conquer
     */
-
     static int Factorial(int n)
     {
         if (n == 1)
@@ -313,79 +291,3 @@ class Program
         return n * Factorial(n - 1);
     }
 }
-
-/*
-============================================================
-INTERVIEW SUMMARY
-============================================================
-
-Method
-------
-Reusable block of code.
-
-Parameter
----------
-Variable declared in method definition.
-
-Argument
---------
-Actual value passed to a method.
-
-Return Type
------------
-Specifies what value a method returns.
-
-void
-----
-Method returns nothing.
-
-Method Overloading
-------------------
-Same method name,
-different parameter list.
-
-Default Parameter
------------------
-Used when caller supplies no value.
-
-Named Argument
---------------
-Arguments passed using parameter names.
-
-ref
----
-Passes original variable.
-
-out
----
-Returns extra values.
-
-Expression-bodied Method
-------------------------
-Short syntax using =>
-
-Recursion
-----------
-Method calling itself.
-
-============================================================
-
-JAVA vs C#
-
-Java
-
-void hello(){}
-
-C#
-
-void Hello(){}
-
-Almost identical.
-
-Only naming conventions differ.
-
-============================================================
-END OF CHAPTER 5
-============================================================
-```
-cd 

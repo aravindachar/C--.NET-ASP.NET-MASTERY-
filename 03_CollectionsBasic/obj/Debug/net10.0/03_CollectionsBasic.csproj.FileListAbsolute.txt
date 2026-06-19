@@ -1,0 +1,15 @@
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\03_CollectionsBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\03_CollectionsBasic.AssemblyInfoInputs.cache
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\03_CollectionsBasic.AssemblyInfo.cs
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\03_CollectionsBasic.csproj.CoreCompileInputs.cache
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\03_CollectionsBasic.sourcelink.json
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\bin\Debug\net10.0\03_CollectionsBasic.exe
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\bin\Debug\net10.0\03_CollectionsBasic.deps.json
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\bin\Debug\net10.0\03_CollectionsBasic.runtimeconfig.json
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\bin\Debug\net10.0\03_CollectionsBasic.dll
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\bin\Debug\net10.0\03_CollectionsBasic.pdb
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\03_CollectionsBasic.dll
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\refint\03_CollectionsBasic.dll
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\03_CollectionsBasic.pdb
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\03_CollectionsBasic.genruntimeconfig.cache
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\03_CollectionsBasic\obj\Debug\net10.0\ref\03_CollectionsBasic.dll

@@ -1,0 +1,15 @@
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\05_MethodsandClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\05_MethodsandClasses.AssemblyInfoInputs.cache
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\05_MethodsandClasses.AssemblyInfo.cs
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\05_MethodsandClasses.csproj.CoreCompileInputs.cache
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\05_MethodsandClasses.sourcelink.json
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\bin\Debug\net10.0\05_MethodsandClasses.exe
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\bin\Debug\net10.0\05_MethodsandClasses.deps.json
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\bin\Debug\net10.0\05_MethodsandClasses.runtimeconfig.json
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\bin\Debug\net10.0\05_MethodsandClasses.dll
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\bin\Debug\net10.0\05_MethodsandClasses.pdb
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\05_MethodsandClasses.dll
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\refint\05_MethodsandClasses.dll
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\05_MethodsandClasses.pdb
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\05_MethodsandClasses.genruntimeconfig.cache
+C:\Users\arvin\OneDrive\Documents\Image-Line\FL Studio\Settings\Hardware\Novation\user\Desktop\C Sharp\05_MethodsandClasses\obj\Debug\net10.0\ref\05_MethodsandClasses.dll

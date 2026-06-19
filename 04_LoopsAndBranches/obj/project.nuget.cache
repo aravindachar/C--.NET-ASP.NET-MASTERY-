@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Azh1WBESs6Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\04_LoopsAndBranches\\04_LoopsAndBranches.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arvin\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\arvin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\arvin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\arvin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

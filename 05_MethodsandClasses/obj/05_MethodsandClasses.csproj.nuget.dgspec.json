@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\05_MethodsandClasses.csproj": {}
+    "c:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\05_MethodsandClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\05_MethodsandClasses.csproj": {
+    "c:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\05_MethodsandClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\05_MethodsandClasses.csproj",
+        "projectUniqueName": "c:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\05_MethodsandClasses.csproj",
         "projectName": "05_MethodsandClasses",
-        "projectPath": "C:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\05_MethodsandClasses.csproj",
+        "projectPath": "c:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\05_MethodsandClasses.csproj",
         "packagesPath": "C:\\Users\\arvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\obj\\",
+        "outputPath": "c:\\Users\\arvin\\OneDrive\\Documents\\Image-Line\\FL Studio\\Settings\\Hardware\\Novation\\user\\Desktop\\C Sharp\\05_MethodsandClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arvin\\AppData\\Roaming\\NuGet\\NuGet.Config"
